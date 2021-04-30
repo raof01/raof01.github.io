@@ -34,7 +34,7 @@ author:
 show_excerpts: false
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 
 minima:
   social_links:
